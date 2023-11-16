@@ -1,4 +1,4 @@
-module github.com/gabyzanna/webhook
+module github.com/Ardivadiva/webhook
 
 go 1.21.3
 
